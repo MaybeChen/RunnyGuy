@@ -1,0 +1,10 @@
+{
+  "appid": "touristappid",
+  "compileType": "game",
+  "libVersion": "3.4.10",
+  "projectname": "RunnyGuy",
+  "setting": {
+    "es6": true,
+    "minified": false
+  }
+}
